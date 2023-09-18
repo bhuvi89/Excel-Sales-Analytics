@@ -11,12 +11,7 @@
 Empower businesses with the capability to monitor, assess, and improve their sales activities and outcomes. By providing actionable insights, we enable organizations to optimize their sales strategies and achieve better results.
 
 ## Significance of Sales Data Analysis: 
-Tracking key performance indicators (KPIs).
-Sales Forecasting.
-Analyzing lead data.
-Analyzing market and competitor.
-Evaluating the performance of sales teams.
-Enabling Data-Driven Decision-Making.
+Tracking key performance indicators (KPIs),Sales Forecasting,Analyzing lead data,Analyzing market and competitor,Evaluating the performance of sales teams,Enabling Data-Driven Decision-Making.
 
 ## Role of Reports:
 Determine effective customer discounts,facilitate negotiations with consumers,identify potential business expansion opportunities in promising countries.
@@ -25,8 +20,8 @@ Determine effective customer discounts,facilitate negotiations with consumers,id
 
 ## Project Objectives
 
-**1.** Create Profit and Loss (P&L) reports by Fiscal Year & Months.
-**2.** Create Profit and Loss (P&L) reports by Markets.
+1. ** Create Profit and Loss (P&L) reports by Fiscal Year & Months.**
+2. ** Create Profit and Loss (P&L) reports by Markets.**
 
 ## Finance Analytics Purpose:
   Evaluation of financial performance.
