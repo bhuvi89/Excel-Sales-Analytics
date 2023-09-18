@@ -20,9 +20,9 @@ Determine effective customer discounts,facilitate negotiations with consumers,id
 
 ## Project Objectives
 
-1. ** Create Profit and Loss (P&L) reports by Fiscal Year & Months.**
-2. ** Create Profit and Loss (P&L) reports by Markets.**
-
+1. **Profit and Loss Reports:** Created Profit and Loss reports by Fiscal Year & Months.
+2. **P&L Reports by Markets:**  Generated P&L reports categorized by different markets.
+   
 ## Finance Analytics Purpose:
   Evaluation of financial performance.
   Supported decision-making.
