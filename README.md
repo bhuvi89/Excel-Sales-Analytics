@@ -24,9 +24,7 @@ Determine effective customer discounts,facilitate negotiations with consumers,id
 2. **P&L Reports by Markets:**  Generated P&L reports categorized by different markets.
    
 ## Finance Analytics Purpose:
-  Evaluation of financial performance.
-  Supported decision-making.
-  Facilitate communication with stakeholders.
+  Evaluation of financial performance,Supported decision-making,Facilitate communication with stakeholders.
   
 ## Significance of Finance Analysis:
 Empowering organizations to make informed decisions, manage risks, allocate resources efficiently, and ensure financial stability.
